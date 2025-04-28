@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Don't expect anything too exciting on this, it's mostly for fun.
+Don't expect anything too exciting on this, it's mostly for shits and giggles, or whatever I think is cool in the moment.
 
 ## "Why's this empty?"
 
