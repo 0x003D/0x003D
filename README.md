@@ -2,10 +2,6 @@
 
 Don't expect anything too exciting on this, it's mostly for shits and giggles, or whatever I think is cool in the moment.
 
-## "Why's this empty?" 🤔
-
-You might find empty repositories on this account, I'll usually make the repo before finishing the work, it's sort of my own reminder. 🤷‍♂️
-
 <!--
 **vbrk11/vbrk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
