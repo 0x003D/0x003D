@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi 👋
 
-Don't expect anything too exciting on this, it's mostly for shits and giggles, or whatever I think is cool in the moment.
+This is a sandbox. Expect mess, not masterpieces.
+
+
 
 <!--
 **vbrk11/vbrk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
