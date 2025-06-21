@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is a sandbox. Expect mess, not masterpieces.
+This is a sandbox. Don't expect masterpieces.
 
 <details>
   <summary>Technologies & Tools I know</summary>
