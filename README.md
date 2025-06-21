@@ -2,6 +2,22 @@
 
 This is a sandbox. Expect mess, not masterpieces.
 
+<details>
+  <summary>Technologies & Tools I know</summary>
+
+- Python  
+- C
+- Git
+
+</details>
+
+<details>
+  <summary>Learning</summary>
+
+- Vim  
+- C++
+
+</details>
 
 
 <!--
